@@ -16,6 +16,24 @@
     "birthday": {"dateTime": {
                  "min": "2010-01-01T00:00:00Z",
                  "max": "2020-12-31T23:59:59Z" } }
+  },
+   "Event": {
+     "_": { "items": 10 },
+    "firstName": { "string": {} },
+    "lastName":  { "string": {} },
+    "username":  { "string": {} },
+    "gender":  { "string": ["Male", "Female", "Others"] },
+    "email": { "regexp": "[a-z]{5,10}@[a-z]{5}\\.[a-z]{2,3}" },
+    "password":  { "string": {} },
+    "education":  { "string": ["Realschulabschluss", "Hauptschulabschluss", "Fachabitur"] },
+    "title":  { "string": ["Herr", "Frau"] },
+    "telNumber": { "regexp": "[0-9]{11}" },
+    "adress":  { "string": {} },
+    "profilePicture": {"regexp": "https://picsum\\.photos/seed/[0-9]{5}/1920/270"},
+    "isModerator": { "boolean": {} },
+    "birthday": {"dateTime": {
+                 "min": "2010-01-01T00:00:00Z",
+                 "max": "2020-12-31T23:59:59Z" } }
   }
  
  }
