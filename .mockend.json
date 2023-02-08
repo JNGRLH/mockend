@@ -40,7 +40,7 @@
     "email": "user3@example.com",
     "age": 35
   }
-]
+
     "body": {
       "loremParagraphs": {
         "minLength": 10,
