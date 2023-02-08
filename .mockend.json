@@ -12,6 +12,35 @@
         "maxLength": 20
       }
     },
+    "user": {
+      "id": 1,
+      "firstName":
+      "lastName":
+      "username": "user1",
+      "gender":
+      "email": "user1@example.com",
+      "password":
+      "education":
+      "title":
+      "telNumber":
+      "adress":
+      "profilePicture":
+      "isModerator":
+      "birthday":
+  },
+  {
+    "id": 2,
+    "username": "user2",
+    "email": "user2@example.com",
+    "age": 25
+  },
+  {
+    "id": 3,
+    "username": "user3",
+    "email": "user3@example.com",
+    "age": 35
+  }
+]
     "body": {
       "loremParagraphs": {
         "minLength": 10,
