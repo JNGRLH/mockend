@@ -18,16 +18,16 @@
                  "max": "2020-12-31T23:59:59Z" } }
   },
    "Event": {
-     "_": { "items": 10 },
+     "_": { "items": 5 },
     "titlePicture": {"regexp": "https://picsum\\.photos/seed/[0-9]{5}/1920/270"},
-    "title":  { "string": {} },
-    "description":  { "string": {} },
+    "title": { "string": {} },
+    "description": { "string": {} },
     "date": {"dateTime": {
                  "min": "2010-01-01T00:00:00Z",
                  "max": "2020-12-31T23:59:59Z" },
-    "user":   { "int": {} },
-    "location":  { "string": {} },
-    "maxUser":  { "int": {} }
+    "user": { "int": {} },
+    "location": { "string": {} },
+    "maxUser": { "int": {} }
    }
   }
  
