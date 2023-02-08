@@ -4,49 +4,49 @@
       "items": 10
     },
     "user": {
-      "firstName":
-      "lastName":
-      "username": "user1",
-      "gender":
+      "firstName": "Max",
+      "lastName": "Mustermann",
+      "username": "MaMu1",
+      "gender": "male",
       "email": "[a-z]{5,10}@[a-z]{5}\\.[a-z]{2,3}",
-      "password":
-      "education":
-      "title":
-      "telNumber":
-      "adress":
-      "profilePicture":
-      "isModerator":
-      "birthday":
+      "password": "Test123",
+      "education": "Realschulabschluss",
+      "title": "Herr",
+      "telNumber": "0172123456789",
+      "adress": "Musterstraße 1, 08151 Musterstadt",
+      "profilePicture": "no",
+      "isModerator": "no",
+      "birthday": "01.01.1998",
    },
    {
-      "firstName":
-      "lastName":
-      "username": "user1",
-      "gender":
+      "firstName": "Max",
+      "lastName": "Mustermann",
+      "username": "MaMu1",
+      "gender": "male",
       "email": "[a-z]{5,10}@[a-z]{5}\\.[a-z]{2,3}",
-      "password":
-      "education":
-      "title":
-      "telNumber":
-      "adress":
-      "profilePicture":
-      "isModerator":
-      "birthday":
+      "password": "Test123",
+      "education": "Realschulabschluss",
+      "title": "Herr",
+      "telNumber": "0172123456789",
+      "adress": "Musterstraße 1, 08151 Musterstadt",
+      "profilePicture": "no",
+      "isModerator": "no",
+      "birthday": "01.01.1998",
    },
    {
-      "firstName":
-      "lastName":
-      "username": "user1",
-      "gender":
+      "firstName": "Max",
+      "lastName": "Mustermann",
+      "username": "MaMu1",
+      "gender": "male",
       "email": "[a-z]{5,10}@[a-z]{5}\\.[a-z]{2,3}",
-      "password":
-      "education":
-      "title":
-      "telNumber":
-      "adress":
-      "profilePicture":
-      "isModerator":
-      "birthday":
+      "password": "Test123",
+      "education": "Realschulabschluss",
+      "title": "Herr",
+      "telNumber": "0172123456789",
+      "adress": "Musterstraße 1, 08151 Musterstadt",
+      "profilePicture": "no",
+      "isModerator": "no",
+      "birthday": "01.01.1998",
   },
 
     }
